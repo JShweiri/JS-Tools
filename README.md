@@ -5,7 +5,7 @@ This tool has unexpectedly become the most used program I have made. I use the p
 ## Controls:
 WIN+SPC: change window transparency
 
-CTRL+SPC: Pin window to top
+CTRL+SPC: Pin window to top (front)
 
 WIN+C: display color mouse is hovering over
 * f12: copy color
